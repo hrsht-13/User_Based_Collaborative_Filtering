@@ -1,0 +1,51 @@
+Test User,Predicted_Movie,Predicted_Movie_Rating,Movie_seen_in_past,Rating_of_the_movie_seen_in_past>3
+456,101 Dalmatians (1996),5.0,Toy Story (1995),5.0
+456,Scream (1996),4.980041084711647,"Rock, The (1996)",5.0
+456,"Rock, The (1996)",4.677902628743645,Independence Day (a.k.a. ID4) (1996),5.0
+456,Toy Story (1995),4.623480704477954,101 Dalmatians (1996),5.0
+456,Independence Day (a.k.a. ID4) (1996),4.425221292082589,Scream (1996),5.0
+34,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",4.994964205318945,Fight Club (1999),4.0
+34,Lost in Translation (2003),4.744391555251465,X-Men (2000),5.0
+34,X-Men (2000),4.6050771104644594,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",5.0
+34,Ong-Bak: The Thai Warrior (Ong Bak) (2003),4.599407977718377,Lost in Translation (2003),5.0
+34,Fight Club (1999),4.592572599408157,Ong-Bak: The Thai Warrior (Ong Bak) (2003),5.0
+560,In Bruges (2008),4.690603348386146,Star Wars: Episode VI - Return of the Jedi (1983),4.0
+560,Drive (2011),4.690603348386146,"Dark Knight, The (2008)",4.5
+560,Boogie Nights (1997),4.65184743763742,In Bruges (2008),4.5
+560,"Dark Knight, The (2008)",4.644386873480994,Drive (2011),4.5
+560,Star Wars: Episode VI - Return of the Jedi (1983),4.624400345760516,Boogie Nights (1997),4.0
+232,"Sixth Sense, The (1999)",4.876814773870447,Pulp Fiction (1994),5.0
+232,300 (2007),4.753444673536205,"Departed, The (2006)",4.5
+232,"Departed, The (2006)",4.7456374743924625,"Sixth Sense, The (1999)",5.0
+232,"Boondock Saints, The (2000)",4.732338094797941,300 (2007),5.0
+232,Pulp Fiction (1994),4.6863829580563285,"Boondock Saints, The (2000)",4.5
+27,Hook (1991),5.0,"Princess Bride, The (1987)",5.0
+27,Back to the Future (1985),5.0,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),5.0
+27,Guess Who's Coming to Dinner (1967),4.931183344016413,Back to the Future (1985),5.0
+27,"Princess Bride, The (1987)",4.91483685490778,Hook (1991),5.0
+27,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.889582216690518,Guess Who's Coming to Dinner (1967),5.0
+355,Star Wars: Episode I - The Phantom Menace (1999),4.9848143041642565,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),5.0
+355,Total Recall (1990),4.818290871244863,Star Wars: Episode I - The Phantom Menace (1999),5.0
+355,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.78158048921434,Total Recall (1990),5.0
+355,To Catch a Thief (1955),4.773087426245057,To Catch a Thief (1955),5.0
+355,"American in Paris, An (1951)",4.550087187034933,"American in Paris, An (1951)",5.0
+121,Heat (1995),4.628620078662957,Heat (1995),5.0
+121,Mr. Holland's Opus (1995),4.462707153543693,Forrest Gump (1994),4.0
+121,Casino (1995),4.334255895649538,"Shawshank Redemption, The (1994)",5.0
+121,"Shawshank Redemption, The (1994)",4.247543760772606,Casino (1995),5.0
+121,Forrest Gump (1994),4.136002242996065,Mr. Holland's Opus (1995),5.0
+90,Sling Blade (1996),5.0,"Postman, The (Postino, Il) (1994)",5.0
+90,Antonia's Line (Antonia) (1995),5.0,Sling Blade (1996),5.0
+90,Hamlet (1996),5.0,Antonia's Line (Antonia) (1995),5.0
+90,Angels and Insects (1995),5.0,Angels and Insects (1995),5.0
+90,"Postman, The (Postino, Il) (1994)",5.0,Hamlet (1996),5.0
+602,"Shawshank Redemption, The (1994)",4.7704214784695695,Seven (a.k.a. Se7en) (1995),5.0
+602,Fargo (1996),4.763750166988355,"Usual Suspects, The (1995)",5.0
+602,"Silence of the Lambs, The (1991)",4.6532606404565255,"Silence of the Lambs, The (1991)",5.0
+602,"Usual Suspects, The (1995)",4.641193622464432,Fargo (1996),5.0
+602,Seven (a.k.a. Se7en) (1995),4.56623534174554,"Shawshank Redemption, The (1994)",5.0
+358,"Walk to Remember, A (2002)",4.614027029422673,"Walk to Remember, A (2002)",5.0
+358,Tristan & Isolde (2006),4.593044926937968,50 First Dates (2004),4.0
+358,Atonement (2007),4.285463469575917,Eternal Sunshine of the Spotless Mind (2004),4.0
+358,Eternal Sunshine of the Spotless Mind (2004),4.268526645801932,Atonement (2007),5.0
+358,50 First Dates (2004),4.193183932839913,Tristan & Isolde (2006),5.0
